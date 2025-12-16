@@ -46,17 +46,22 @@ Run the script as root:
 
 sudo python3 sniffer.py
 
+```
+
+---
+
 ##  How to Run the Script
 
 - Clone this repository or download the files.
 - Install the dependencies.
 - Execute the script:
-
+```
 python sniffer.py
 
 Or (Linux/macOS):
 
 sudo python3 sniffer.py
+```
 
 ### The program will:
 
@@ -80,6 +85,8 @@ And for packets without an IP layer (like ARP):
 Packet without IP layer (e.g., ARP/LLC)
 Size: 42 bytes
 ========================================
+
+---
 
 ## What I Learned from This Project
 
