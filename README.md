@@ -70,7 +70,7 @@ sudo python3 sniffer.py
 • Display 15 packets in a readable, formatted way
 
 ### Example Output
-
+```
 ========================================
 Packet Captured
 Source    : 192.168.0.100
@@ -85,6 +85,7 @@ And for packets without an IP layer (like ARP):
 Packet without IP layer (e.g., ARP/LLC)
 Size: 42 bytes
 ========================================
+```
 
 ---
 
